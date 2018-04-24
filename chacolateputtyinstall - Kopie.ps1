@@ -1,1 +1,1 @@
-choco install putty.portable
+choco install putty.portable -y
